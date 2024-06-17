@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Strava Info",
+  "version": "1.0",
+  "description": "Simple Strava athlete info",
+  "permissions": ["tabs", "activeTab"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "/img/strava.png",
+      "48": "/img/strava.png",
+      "128": "/img/strava.png"
+    }
+  },
+  "icons": {
+    "16": "/img/strava.png",
+    "48": "/img/strava.png",
+    "128": "/img/strava.png"
+  }
+}
